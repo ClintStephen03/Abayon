@@ -1,0 +1,67 @@
+body{
+	background-image: url(Images/DADAT.jpeg);
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+h1{			
+	text-align: center;
+		color:#2E4053;
+			border: 10px solid #5D6D7E ;
+	background-color: #E7936E;
+}
+p{
+	font-size: 140%;
+		font-family: verdana;
+			margin: 8%;
+		border: 10px solid #5D6D7E;	
+}
+img{
+	border: 15px solid #5D6D7E ;
+	border-radius: 10px;
+}
+
+h2 {
+	text-align: center;
+
+}
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+	background-color: #E7936E;
+}
+	h2{
+		color: black;
+		background-color:#E7936E ;
+		border: 15px solid #5D6D7E ;
+		border-radius: 50px;
+	}
+	p{
+		color: #2C3E50;
+		border-radius: 30px;
+	}
+h1{
+	border-radius: 30px;
+}
+img{
+	height: 500px;
+	width: 500px;
+
+	margin-left:400px;
+
+}
+table, th, td{
+	border: 7px solid #5D6D7E ;
+	border-radius: 10px;
+
+}
+th, td{
+	background-color: #E7936E;
+	font-family: verdana;
+	color:#5D6D7E ;
+
+}
+
